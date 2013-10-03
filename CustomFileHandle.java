@@ -1,5 +1,3 @@
-package net.railscoder.gyviel.internals;
-
 import java.io.File;
 
 import com.badlogic.gdx.Files.FileType;
