@@ -1,5 +1,3 @@
-package net.railscoder.gyviel.internals;
-
 import java.io.IOException;
 
 import com.badlogic.gdx.Gdx;
